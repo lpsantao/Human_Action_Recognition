@@ -6,5 +6,6 @@ and combined, adapted from consolidated state-of-art works. Includes:
 - Optimized LSTM model with two layers
 - Preprocessing scripts of two distinct datasets (JHMDB and DHG)
 - Feature Engineering: temporal features, geometric features, and combined features.
-Results:
+
+- Results:
 Acc: 85.2% for DHG-14, 81.3% for DHG-28 and 71.1% for JHMDB
